@@ -1,0 +1,5868 @@
+{
+  "0.gravatar.com": {
+    "hostname": "0.gravatar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mundokodi.com",
+      "lamiradadelreplicante.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "0914.global.ssl.fastly.net": {
+    "hostname": "0914.global.ssl.fastly.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "1.gravatar.com": {
+    "hostname": "1.gravatar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "lamiradadelreplicante.com",
+      "aidancbrady.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "4354787.fls.doubleclick.net": {
+    "hostname": "4354787.fls.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.mint.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a.thumbs.redditmedia.com": {
+    "hostname": "a.thumbs.redditmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a8270235338.cdn.optimizely.com": {
+    "hostname": "a8270235338.cdn.optimizely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.blizzard.com",
+      "worldofwarcraft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aax-eu.amazon-adsystem.com": {
+    "hostname": "aax-eu.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.google.es",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aax.amazon-adsystem.com": {
+    "hostname": "aax.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "abs.twimg.com": {
+    "hostname": "abs.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telegram.org",
+      "twitter.com",
+      "cienciaindignada.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "abtrcking.com": {
+    "hostname": "abtrcking.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.bible-history.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "acceptable.a-ads.com": {
+    "hostname": "acceptable.a-ads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.subadictos.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "accounts.google.com": {
+    "hostname": "accounts.google.com",
+    "favicon": "https://www.google.com/favicon.ico",
+    "firstPartyHostnames": [
+      "cv4.ucm.es",
+      "calendar.librelabucm.org",
+      "www.profesionalreview.com",
+      "raspberryparatorpes.net",
+      "es.wikihow.com",
+      "www.google.com.mx",
+      "linuxzone.es",
+      "www.muylinux.com",
+      "www.minecraftforum.net",
+      "chrome.google.com",
+      "www.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.gstatic.com",
+      "ssl.gstatic.com"
+    ]
+  },
+  "acdn.adnxs.com": {
+    "hostname": "acdn.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "achievecraft.com": {
+    "hostname": "achievecraft.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "active.cache.el-mundo.net": {
+    "hostname": "active.cache.el-mundo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.360yield.com": {
+    "hostname": "ad.360yield.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.atdmt.com": {
+    "hostname": "ad.atdmt.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.linuxadictos.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.tagdelivery.com": {
+    "hostname": "ad.tagdelivery.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.turn.com": {
+    "hostname": "ad.turn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "add0n.com": {
+    "hostname": "add0n.com",
+    "favicon": "https://cdn.add0n.com/icons/user-voice.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdnjs.cloudflare.com",
+      "blockchain.info",
+      "cdn.add0n.com",
+      "www.intensedebate.com",
+      "intensedebate.com",
+      "camo.githubusercontent.com",
+      "pagead2.googlesyndication.com",
+      "adservice.google.es",
+      "adservice.google.com",
+      "googleads.g.doubleclick.net",
+      "tpc.googlesyndication.com",
+      "www.google.com",
+      "cm.g.doubleclick.net"
+    ]
+  },
+  "addons-amo.cdn.mozilla.net": {
+    "hostname": "addons-amo.cdn.mozilla.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "addons.mozilla.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "addons.cdn.mozilla.net": {
+    "hostname": "addons.cdn.mozilla.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "addons.mozilla.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "addons.mozilla.org": {
+    "hostname": "addons.mozilla.org",
+    "favicon": "https://addons.mozilla.org/favicon.ico?v=1",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google-analytics.com",
+      "www.google.es",
+      "addons.cdn.mozilla.net",
+      "addons-amo.cdn.mozilla.net",
+      "ssl.google-analytics.com"
+    ]
+  },
+  "ads.pubmatic.com": {
+    "hostname": "ads.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.stickyadstv.com": {
+    "hostname": "ads.stickyadstv.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adserver.adtech.de": {
+    "hostname": "adserver.adtech.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xataka.com",
+      "mundokodi.com",
+      "distrowatch.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adserver.adtechus.com": {
+    "hostname": "adserver.adtechus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.com": {
+    "hostname": "adservice.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.profesionalreview.com",
+      "raspberryparatorpes.net",
+      "lamiradadelreplicante.com",
+      "www.guiadegrecia.com",
+      "www.bible-history.com",
+      "add0n.com",
+      "es.wikihow.com",
+      "distrowatch.com",
+      "linuxmint.com",
+      "www.linuxadictos.com",
+      "wiki.aidancbrady.com",
+      "aidancbrady.com",
+      "www.minecraftforum.net",
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adservice.google.es": {
+    "hostname": "adservice.google.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es",
+      "www.reddit.com",
+      "www.profesionalreview.com",
+      "raspberryparatorpes.net",
+      "lamiradadelreplicante.com",
+      "www.guiadegrecia.com",
+      "www.bible-history.com",
+      "add0n.com",
+      "es.wikihow.com",
+      "distrowatch.com",
+      "linuxmint.com",
+      "www.linuxadictos.com",
+      "wiki.aidancbrady.com",
+      "aidancbrady.com",
+      "botaniamod.net",
+      "www.minecraftforum.net",
+      "www.pccomponentes.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "advertising.el-mundo.net": {
+    "hostname": "advertising.el-mundo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aidancbrady.com": {
+    "hostname": "aidancbrady.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "s0.wp.com",
+      "stats.wp.com",
+      "s.gravatar.com",
+      "netdna.bootstrapcdn.com",
+      "fonts.googleapis.com",
+      "get.s-onetag.com",
+      "1.gravatar.com",
+      "fonts.gstatic.com",
+      "www.paypalobjects.com",
+      "www.youtube.com",
+      "pagead2.googlesyndication.com",
+      "www.google-analytics.com",
+      "platform.twitter.com",
+      "googleads.g.doubleclick.net",
+      "adservice.google.es",
+      "adservice.google.com",
+      "syndication.twitter.com",
+      "www.google.com",
+      "static.doubleclick.net",
+      "tpc.googlesyndication.com"
+    ]
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "pool.devpgsv.com",
+      "edu.google.com",
+      "trinity.librelabucm.org",
+      "aur.archlinux.org",
+      "translate.google.es",
+      "archlinuxarm.org",
+      "www.profesionalreview.com",
+      "play.google.com",
+      "divercity.librelabucm.org",
+      "www.subadictos.net",
+      "redair.es",
+      "apartamentosgrajera.es",
+      "hdwarena.com",
+      "www.voidlinux.eu",
+      "linuxzone.es",
+      "www.linuxadictos.com",
+      "wiki.aidancbrady.com",
+      "botaniamod.net",
+      "www.google.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aka-cdn-ns.adtechus.com": {
+    "hostname": "aka-cdn-ns.adtechus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "alt.idgesg.net": {
+    "hostname": "alt.idgesg.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "amplify.outbrain.com": {
+    "hostname": "amplify.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ams1-ib.adnxs.com": {
+    "hostname": "ams1-ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aol.demdex.net": {
+    "hostname": "aol.demdex.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ap.lijit.com": {
+    "hostname": "ap.lijit.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apartamentosgrajera.es": {
+    "hostname": "apartamentosgrajera.es",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "connect.facebook.net",
+      "staticxx.facebook.com",
+      "www.facebook.com"
+    ]
+  },
+  "api.at.getsocial.io": {
+    "hostname": "api.at.getsocial.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mundokodi.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.autopilothq.com": {
+    "hostname": "api.autopilothq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.github.com": {
+    "hostname": "api.github.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "github.com",
+      "www.voidlinux.eu"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.mojang.com": {
+    "hostname": "api.mojang.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "minecraft.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apis.google.com": {
+    "hostname": "apis.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es",
+      "cv4.ucm.es",
+      "calendar.librelabucm.org",
+      "translate.google.es",
+      "www.profesionalreview.com",
+      "raspberryparatorpes.net",
+      "play.google.com",
+      "es.wikihow.com",
+      "www.google.com.mx",
+      "chrome.google.com",
+      "linuxzone.es",
+      "www.muylinux.com",
+      "minecraft.curseforge.com",
+      "www.minecrafteo.com",
+      "botaniamod.net",
+      "www.minecraftforum.net",
+      "www.google.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "app.link": {
+    "hostname": "app.link",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "app.natify.io": {
+    "hostname": "app.natify.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ubuntu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aral.github.io": {
+    "hostname": "aral.github.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "brew.sh"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "archlinuxarm.org": {
+    "hostname": "archlinuxarm.org",
+    "favicon": "https://archlinuxarm.org/public/images/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "www.google-analytics.com"
+    ]
+  },
+  "as.casalemedia.com": {
+    "hostname": "as.casalemedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.gentoo.org": {
+    "hostname": "assets.gentoo.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.gentoo.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.mozilla.net": {
+    "hostname": "assets.mozilla.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.mozilla.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.ubuntu.com": {
+    "hostname": "assets.ubuntu.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ubuntu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.zendesk.com": {
+    "hostname": "assets.zendesk.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "atpixelus.alephd.com": {
+    "hostname": "atpixelus.alephd.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aur.archlinux.org": {
+    "hostname": "aur.archlinux.org",
+    "favicon": "https://aur.archlinux.org/images/favicon.ico",
+    "firstPartyHostnames": [
+      "translate.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "ajax.googleapis.com"
+    ]
+  },
+  "authedmine.com": {
+    "hostname": "authedmine.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "devpgsv.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "avatars0.githubusercontent.com": {
+    "hostname": "avatars0.githubusercontent.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "github.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "avatars1.githubusercontent.com": {
+    "hostname": "avatars1.githubusercontent.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "github.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "avatars2.githubusercontent.com": {
+    "hostname": "avatars2.githubusercontent.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "github.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "avatars3.githubusercontent.com": {
+    "hostname": "avatars3.githubusercontent.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "github.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "az725175.vo.msecnd.net": {
+    "hostname": "az725175.vo.msecnd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "minecraft.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.aol.com": {
+    "hostname": "b.aol.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.codeonclick.com": {
+    "hostname": "b.codeonclick.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "yts.am"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.scorecardresearch.com": {
+    "hostname": "b.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.thumbs.redditmedia.com": {
+    "hostname": "b.thumbs.redditmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bam.nr-data.net": {
+    "hostname": "bam.nr-data.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.raspberrypi.org",
+      "www.blizzard.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bat.bing.com": {
+    "hostname": "bat.bing.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.godaddy.com",
+      "www.dondominio.com",
+      "es.wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bh.contextweb.com": {
+    "hostname": "bh.contextweb.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bid.contextweb.com": {
+    "hostname": "bid.contextweb.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bid.g.doubleclick.net": {
+    "hostname": "bid.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bidder.criteo.com": {
+    "hostname": "bidder.criteo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "distrowatch.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "blockchain.info": {
+    "hostname": "blockchain.info",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "add0n.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "blznav.akamaized.net": {
+    "hostname": "blznav.akamaized.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.blizzard.com",
+      "worldofwarcraft.com",
+      "eu.battle.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bnetcmsus-a.akamaihd.net": {
+    "hostname": "bnetcmsus-a.akamaihd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.blizzard.com",
+      "eu.battle.net",
+      "worldofwarcraft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bneteu-a.akamaihd.net": {
+    "hostname": "bneteu-a.akamaihd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "eu.battle.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bnetus-a.akamaihd.net": {
+    "hostname": "bnetus-a.akamaihd.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "worldofwarcraft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bolotweet.devpgsv.com": {
+    "hostname": "bolotweet.devpgsv.com",
+    "favicon": "https://bolotweet.devpgsv.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "botaniamod.net": {
+    "hostname": "botaniamod.net",
+    "favicon": "https://botaniamod.net/favicon.ico",
+    "firstPartyHostnames": [
+      "vazkii.us"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "consent.google.com",
+      "www.gstatic.com",
+      "apis.google.com",
+      "adservice.google.es",
+      "ajax.googleapis.com",
+      "www.youtube.com",
+      "maxcdn.bootstrapcdn.com",
+      "fat.gfycat.com",
+      "thumbs.gfycat.com",
+      "fonts.gstatic.com",
+      "www.google.com",
+      "googleads.g.doubleclick.net",
+      "static.doubleclick.net",
+      "i.ytimg.com"
+    ]
+  },
+  "brew.sh": {
+    "hostname": "brew.sh",
+    "favicon": "https://brew.sh/img/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "aral.github.io",
+      "www.google-analytics.com"
+    ]
+  },
+  "bs.serving-sys.com": {
+    "hostname": "bs.serving-sys.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "worldofwarcraft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "buttons-config.sharethis.com": {
+    "hostname": "buttons-config.sharethis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cryptoparty.ucm.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.amazon-adsystem.com": {
+    "hostname": "c.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.codeonclick.com": {
+    "hostname": "c.codeonclick.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "yts.am"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.deployads.com": {
+    "hostname": "c.deployads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.disquscdn.com": {
+    "hostname": "c.disquscdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mundokodi.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "calendar.google.com": {
+    "hostname": "calendar.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cv4.ucm.es",
+      "calendar.librelabucm.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "calendar.librelabucm.org": {
+    "hostname": "calendar.librelabucm.org",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "calendar.google.com",
+      "apis.google.com",
+      "accounts.google.com",
+      "ssl.gstatic.com",
+      "www.gstatic.com",
+      "clients6.google.com"
+    ]
+  },
+  "camo.githubusercontent.com": {
+    "hostname": "camo.githubusercontent.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "github.com",
+      "add0n.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "campayn.s3.amazonaws.com": {
+    "hostname": "campayn.s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.bible-history.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cat.pexels.com": {
+    "hostname": "cat.pexels.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pexels.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdm.cursecdn.com": {
+    "hostname": "cdm.cursecdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.add0n.com": {
+    "hostname": "cdn.add0n.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "add0n.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.branch.io": {
+    "hostname": "cdn.branch.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.carbonads.com": {
+    "hostname": "cdn.carbonads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pexels.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.chathispano.com": {
+    "hostname": "cdn.chathispano.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "chathispano.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.districtm.io": {
+    "hostname": "cdn.districtm.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "distrowatch.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.doofinder.com": {
+    "hostname": "cdn.doofinder.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.edgecast.steamstatic.com": {
+    "hostname": "cdn.edgecast.steamstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "store.steampowered.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.heapanalytics.com": {
+    "hostname": "cdn.heapanalytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.optimizely.com": {
+    "hostname": "cdn.optimizely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.mint.com",
+      "www.blizzard.com",
+      "worldofwarcraft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.pccomponentes.com": {
+    "hostname": "cdn.pccomponentes.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.ravenjs.com": {
+    "hostname": "cdn.ravenjs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "vazkii.us"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.rawgit.com": {
+    "hostname": "cdn.rawgit.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.cryptoparty.in"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.syndication.twimg.com": {
+    "hostname": "cdn.syndication.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telegram.org",
+      "cienciaindignada.com",
+      "www.voidlinux.eu",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.taboola.com": {
+    "hostname": "cdn.taboola.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "chathispano.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.tagdelivery.com": {
+    "hostname": "cdn.tagdelivery.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.walkme.com": {
+    "hostname": "cdn.walkme.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.yldbt.com": {
+    "hostname": "cdn.yldbt.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn3.optimizely.com": {
+    "hostname": "cdn3.optimizely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdnjs.cloudflare.com": {
+    "hostname": "cdnjs.cloudflare.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "librelabucm.org",
+      "add0n.com",
+      "www.linuxadictos.com",
+      "www.minecrafteo.com",
+      "quark.vazkii.us"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ced-ns.sascdn.com": {
+    "hostname": "ced-ns.sascdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ced.sascdn.com": {
+    "hostname": "ced.sascdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com",
+      "chathispano.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cf.way2muchnoise.eu": {
+    "hostname": "cf.way2muchnoise.eu",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "quark.vazkii.us"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "chat.dondominio.com": {
+    "hostname": "chat.dondominio.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dondominio.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "chathispano.com": {
+    "hostname": "chathispano.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ced.sascdn.com",
+      "cdn.taboola.com",
+      "www.googletagmanager.com",
+      "cdn.chathispano.com",
+      "massarius-jomaanrobv.netdna-ssl.com",
+      "www.google-analytics.com",
+      "sb.scorecardresearch.com",
+      "www.googletagservices.com",
+      "static.addevweb.com",
+      "ww264.smartadserver.com"
+    ]
+  },
+  "choosealicense.com": {
+    "hostname": "choosealicense.com",
+    "favicon": "https://choosealicense.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "www.google-analytics.com",
+      "fonts.gstatic.com"
+    ]
+  },
+  "chrome.google.com": {
+    "hostname": "chrome.google.com",
+    "favicon": "https://ssl.gstatic.com/chrome/webstore/images/icon_48px.png",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "www.google.es",
+      "fonts.googleapis.com",
+      "apis.google.com",
+      "fonts.gstatic.com",
+      "ssl.google-analytics.com",
+      "ssl.gstatic.com",
+      "lh3.googleusercontent.com",
+      "www.gstatic.com",
+      "accounts.google.com",
+      "csi.gstatic.com"
+    ]
+  },
+  "cienciaindignada.com": {
+    "hostname": "cienciaindignada.com",
+    "favicon": "https://cienciaindignada.com/wp-content/uploads/2017/11/cropped-CQZ6cCRj_400x400-32x32.jpg",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "www.google-analytics.com",
+      "www.facebook.com",
+      "platform.twitter.com",
+      "fonts.gstatic.com",
+      "scontent.fmad3-6.fna.fbcdn.net",
+      "syndication.twitter.com",
+      "stats.g.doubleclick.net",
+      "cdn.syndication.twimg.com",
+      "abs.twimg.com",
+      "pbs.twimg.com",
+      "twitter.com"
+    ]
+  },
+  "clients1.google.com": {
+    "hostname": "clients1.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "clients6.google.com": {
+    "hostname": "clients6.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cv4.ucm.es",
+      "calendar.librelabucm.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cloud.devpgsv.com": {
+    "hostname": "cloud.devpgsv.com",
+    "favicon": "https://cloud.devpgsv.com/core/img/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "cloud.githubusercontent.com": {
+    "hostname": "cloud.githubusercontent.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "github.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.g.doubleclick.net": {
+    "hostname": "cm.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "lamiradadelreplicante.com",
+      "www.bible-history.com",
+      "add0n.com",
+      "es.wikihow.com",
+      "wiki.aidancbrady.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cms.quantserve.com": {
+    "hostname": "cms.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.bible-history.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cnswww.cns.cwru.edu": {
+    "hostname": "cnswww.cns.cwru.edu",
+    "favicon": "chrome://global/skin/icons/warning-16.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "code.jquery.com": {
+    "hostname": "code.jquery.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.bible-history.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cognito-identity.eu-west-1.amazonaws.com": {
+    "hostname": "cognito-identity.eu-west-1.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "collect.tealiumiq.com": {
+    "hostname": "collect.tealiumiq.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.godaddy.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "collector-1054.tvsquared.com": {
+    "hostname": "collector-1054.tvsquared.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.godaddy.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "collector.githubapp.com": {
+    "hostname": "collector.githubapp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "github.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "community-content-assets.minecraft.net": {
+    "hostname": "community-content-assets.minecraft.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "minecraft.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.profesionalreview.com",
+      "raspberryparatorpes.net",
+      "www.dondominio.com",
+      "es.wordpress.com",
+      "apartamentosgrajera.es",
+      "www.pexels.com",
+      "es.wikihow.com",
+      "www.ubuntu.com",
+      "linuxzone.es",
+      "www.linuxadictos.com",
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consent.google.com": {
+    "hostname": "consent.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es",
+      "botaniamod.net",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "contextual.media.net": {
+    "hostname": "contextual.media.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "wallpaperbrowse.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cookie-matching.mediarithmics.com": {
+    "hostname": "cookie-matching.mediarithmics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "core.telegram.org": {
+    "hostname": "core.telegram.org",
+    "favicon": "https://core.telegram.org/favicon.ico?3",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google-analytics.com"
+    ]
+  },
+  "crunchbase-production-res.cloudinary.com": {
+    "hostname": "crunchbase-production-res.cloudinary.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cryptoparty.ucm.es": {
+    "hostname": "cryptoparty.ucm.es",
+    "favicon": "https://cryptoparty.ucm.es/wp-content/uploads/2016/04/global_icon.gif",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "platform-api.sharethis.com",
+      "fonts.gstatic.com",
+      "google-analytics.com",
+      "buttons-config.sharethis.com",
+      "l.sharethis.com",
+      "www.google-analytics.com",
+      "docs.google.com",
+      "www.google.com",
+      "www.gstatic.com",
+      "ssl.gstatic.com",
+      "librelabucm.org"
+    ]
+  },
+  "cse.google.com": {
+    "hostname": "cse.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "csi.gstatic.com": {
+    "hostname": "csi.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "translate.google.es",
+      "divercity.librelabucm.org",
+      "www.linuxadictos.com",
+      "chrome.google.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "csmb.staticworld.net": {
+    "hostname": "csmb.staticworld.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cstatic.weborama.fr": {
+    "hostname": "cstatic.weborama.fr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "csync.smartadserver.com": {
+    "hostname": "csync.smartadserver.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "curse-d.openx.net": {
+    "hostname": "curse-d.openx.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cv.ucm.es": {
+    "hostname": "cv.ucm.es",
+    "favicon": "https://cv.ucm.es/CampusVirtual/imagenes/cv.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "sso.ucm.es",
+      "ssl.google-analytics.com"
+    ]
+  },
+  "cv4.ucm.es": {
+    "hostname": "cv4.ucm.es",
+    "favicon": "https://cv4.ucm.es/moodle/theme/image.php/ucm/theme/1516191589/favicon",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google-analytics.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "www.youtube.com",
+      "calendar.google.com",
+      "apis.google.com",
+      "www.google.com",
+      "googleads.g.doubleclick.net",
+      "static.doubleclick.net",
+      "accounts.google.com",
+      "ssl.gstatic.com",
+      "www.gstatic.com",
+      "clients6.google.com",
+      "i.ytimg.com"
+    ]
+  },
+  "d.turn.com": {
+    "hostname": "d.turn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d1xfq2052q7thw.cloudfront.net": {
+    "hostname": "d1xfq2052q7thw.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d1z2jf7jlzjs58.cloudfront.net": {
+    "hostname": "d1z2jf7jlzjs58.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d3js.org": {
+    "hostname": "d3js.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.mint.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d3v.cloud": {
+    "hostname": "d3v.cloud",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "d9me64que7cqs.cloudfront.net": {
+    "hostname": "d9me64que7cqs.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.blizzard.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "debian-handbook.info": {
+    "hostname": "debian-handbook.info",
+    "favicon": "https://debian-handbook.info/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "deluge.devpgsv.com": {
+    "hostname": "deluge.devpgsv.com",
+    "favicon": "https://deluge.devpgsv.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "deviceidshare.twitch.tv": {
+    "hostname": "deviceidshare.twitch.tv",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "devpgsv.com": {
+    "hostname": "devpgsv.com",
+    "favicon": "https://devpgsv.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "authedmine.com"
+    ]
+  },
+  "distrowatch.com": {
+    "hostname": "distrowatch.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "s.clickiocdn.com",
+      "www.googletagservices.com",
+      "prebid.districtm.ca",
+      "adserver.adtech.de",
+      "adservice.google.es",
+      "adservice.google.com",
+      "cdn.districtm.io",
+      "ib.adnxs.com",
+      "bidder.criteo.com"
+    ]
+  },
+  "divercity.librelabucm.org": {
+    "hostname": "divercity.librelabucm.org",
+    "favicon": "https://divercity.librelabucm.org/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "pagead2.googlesyndication.com",
+      "ajax.googleapis.com",
+      "maxcdn.bootstrapcdn.com",
+      "maps.googleapis.com",
+      "csi.gstatic.com",
+      "maps.gstatic.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com"
+    ]
+  },
+  "dl.dropboxusercontent.com": {
+    "hostname": "dl.dropboxusercontent.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dnn506yrbagrg.cloudfront.net": {
+    "hostname": "dnn506yrbagrg.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ubuntu.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "docs.google.com": {
+    "hostname": "docs.google.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cryptoparty.ucm.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dt.adsafeprotected.com": {
+    "hostname": "dt.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "duckduckgo.com": {
+    "hostname": "duckduckgo.com",
+    "favicon": "https://duckduckgo.com/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "e00-elmundo.uecdn.es": {
+    "hostname": "e00-elmundo.uecdn.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "e01-elmundo.uecdn.es": {
+    "hostname": "e01-elmundo.uecdn.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "e02-elmundo.uecdn.es": {
+    "hostname": "e02-elmundo.uecdn.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "e03-elmundo.uecdn.es": {
+    "hostname": "e03-elmundo.uecdn.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "e04-elmundo.uecdn.es": {
+    "hostname": "e04-elmundo.uecdn.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ec-ns.sascdn.com": {
+    "hostname": "ec-ns.sascdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "edu.google.com": {
+    "hostname": "edu.google.com",
+    "favicon": "https://www.google.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "fonts.googleapis.com",
+      "www.googletagmanager.com",
+      "fonts.gstatic.com",
+      "www.youtube.com",
+      "www.google-analytics.com",
+      "s.ytimg.com",
+      "googleads.g.doubleclick.net",
+      "linkmaker.itunes.apple.com",
+      "www.google.com",
+      "www.google.es",
+      "static.doubleclick.net",
+      "www.googleadservices.com",
+      "lh3.googleusercontent.com"
+    ]
+  },
+  "en.wikipedia.org": {
+    "hostname": "en.wikipedia.org",
+    "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "upload.wikimedia.org",
+      "login.wikimedia.org",
+      "www.wikipedia.org",
+      "www.google.es"
+    ]
+  },
+  "es.ads.justpremium.com": {
+    "hostname": "es.ads.justpremium.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecrafteo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "es.godaddy.com": {
+    "hostname": "es.godaddy.com",
+    "favicon": "https://img1.wsimg.com/Sitecore/3/A/4/%7B3A44F70D-6D11-4C14-B611-A1F191704047%7Dgodaddy.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "img1.wsimg.com",
+      "www.youtube.com",
+      "s.ytimg.com",
+      "tags.tiqcdn.com",
+      "bat.bing.com",
+      "static.ads-twitter.com",
+      "s.yimg.com",
+      "collect.tealiumiq.com",
+      "collector-1054.tvsquared.com",
+      "lptag.liveperson.net",
+      "t.co",
+      "img.godaddy.com"
+    ]
+  },
+  "es.wikihow.com": {
+    "hostname": "es.wikihow.com",
+    "favicon": "https://es.wikihow.com/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.wikihow.com",
+      "pagead2.googlesyndication.com",
+      "www.googletagservices.com",
+      "www.google-analytics.com",
+      "googleads.g.doubleclick.net",
+      "adservice.google.es",
+      "adservice.google.com",
+      "securepubads.g.doubleclick.net",
+      "tpc.googlesyndication.com",
+      "www.google.com",
+      "track.adform.net",
+      "cm.g.doubleclick.net",
+      "s1.adform.net",
+      "apis.google.com",
+      "accounts.google.com",
+      "ssl.gstatic.com",
+      "connect.facebook.net",
+      "fonts.googleapis.com",
+      "staticxx.facebook.com",
+      "www.facebook.com"
+    ]
+  },
+  "es.wikipedia.org": {
+    "hostname": "es.wikipedia.org",
+    "favicon": "https://es.wikipedia.org/static/favicon/wikipedia.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "upload.wikimedia.org",
+      "meta.wikimedia.org",
+      "login.wikimedia.org",
+      "www.google.es"
+    ]
+  },
+  "es.wordpress.com": {
+    "hostname": "es.wordpress.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "s1.wp.com",
+      "fonts.googleapis.com",
+      "wordpress.com",
+      "www.googleadservices.com",
+      "www.google-analytics.com",
+      "bat.bing.com",
+      "static.ads-twitter.com",
+      "refer.wordpress.com",
+      "fonts.gstatic.com",
+      "www.clickcease.com",
+      "static.criteo.net",
+      "d.turn.com",
+      "connect.facebook.net",
+      "amplify.outbrain.com"
+    ]
+  },
+  "es.wordpress.org": {
+    "hostname": "es.wordpress.org",
+    "favicon": "https://s.w.org/favicon.ico?2",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "stats.wp.com",
+      "fonts.googleapis.com",
+      "wordpress.com",
+      "s.w.org",
+      "ssl.google-analytics.com",
+      "secure.quantserve.com",
+      "fonts.gstatic.com",
+      "rules.quantcount.com",
+      "pixel.wp.com",
+      "pixel.quantserve.com"
+    ]
+  },
+  "espfx.solution.weborama.fr": {
+    "hostname": "espfx.solution.weborama.fr",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "estaticos.cookies.unidadeditorial.es": {
+    "hostname": "estaticos.cookies.unidadeditorial.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "estaticos.elmundo.es": {
+    "hostname": "estaticos.elmundo.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eu.battle.net": {
+    "hostname": "eu.battle.net",
+    "favicon": "https://eu.battle.net/forums/static/images/icons/wow-favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "blznav.akamaized.net",
+      "bneteu-a.akamaihd.net",
+      "bnetcmsus-a.akamaihd.net",
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "us.battle.net"
+    ]
+  },
+  "eu1-search.doofinder.com": {
+    "hostname": "eu1-search.doofinder.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "f.vimeocdn.com": {
+    "hostname": "f.vimeocdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ubuntu.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fastlane.rubiconproject.com": {
+    "hostname": "fastlane.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xataka.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fat.gfycat.com": {
+    "hostname": "fat.gfycat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "botaniamod.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fdist.librelabucm.org": {
+    "hostname": "fdist.librelabucm.org",
+    "favicon": "https://fdist.librelabucm.org/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "fonts.gstatic.com"
+    ]
+  },
+  "files.devpgsv.com": {
+    "hostname": "files.devpgsv.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "fls-eu.amazon-adsystem.com": {
+    "hostname": "fls-eu.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fls-eu.amazon.es": {
+    "hostname": "fls-eu.amazon.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.es",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cv4.ucm.es",
+      "edu.google.com",
+      "librelabucm.org",
+      "www.youtube.com",
+      "www.crunchbase.com",
+      "www.profesionalreview.com",
+      "www.raspberrypi.org",
+      "raspberryparatorpes.net",
+      "kodi.tv",
+      "mundokodi.com",
+      "lamiradadelreplicante.com",
+      "www.bible-history.com",
+      "divercity.librelabucm.org",
+      "cryptoparty.ucm.es",
+      "cienciaindignada.com",
+      "yts.me",
+      "www.dondominio.com",
+      "es.wordpress.org",
+      "es.wordpress.com",
+      "www.drupal.org",
+      "redair.es",
+      "wallpaperbrowse.com",
+      "es.wikihow.com",
+      "www.google.com.mx",
+      "chrome.google.com",
+      "getfedora.org",
+      "www.voidlinux.eu",
+      "www.openmandriva.org",
+      "linuxzone.es",
+      "www.muylinux.com",
+      "getgnulinux.org",
+      "www.linuxadictos.com",
+      "minecraft.net",
+      "minecraft.curseforge.com",
+      "www.minecrafteo.com",
+      "aidancbrady.com",
+      "vazkii.us",
+      "quark.vazkii.us",
+      "www.minecraftforum.net",
+      "choosealicense.com",
+      "www.google.com",
+      "yts.am",
+      "www.pccomponentes.com",
+      "www.offensive-security.com",
+      "fdist.librelabucm.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cv4.ucm.es",
+      "edu.google.com",
+      "accounts.google.com",
+      "librelabucm.org",
+      "www.google.es",
+      "www.youtube.com",
+      "www.crunchbase.com",
+      "www.profesionalreview.com",
+      "www.raspberrypi.org",
+      "raspberryparatorpes.net",
+      "kodi.tv",
+      "play.google.com",
+      "mundokodi.com",
+      "lamiradadelreplicante.com",
+      "www.bible-history.com",
+      "divercity.librelabucm.org",
+      "cryptoparty.ucm.es",
+      "cienciaindignada.com",
+      "yts.me",
+      "www.dondominio.com",
+      "es.wordpress.org",
+      "es.wordpress.com",
+      "redair.es",
+      "www.google.com.mx",
+      "chrome.google.com",
+      "www.voidlinux.eu",
+      "www.openmandriva.org",
+      "linuxzone.es",
+      "getgnulinux.org",
+      "www.linuxadictos.com",
+      "www.muylinux.com",
+      "www.minecrafteo.com",
+      "aidancbrady.com",
+      "botaniamod.net",
+      "vazkii.us",
+      "quark.vazkii.us",
+      "www.minecraftforum.net",
+      "choosealicense.com",
+      "www.google.com",
+      "yts.am",
+      "www.pccomponentes.com",
+      "www.offensive-security.com",
+      "fdist.librelabucm.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.staticworld.net": {
+    "hostname": "fonts.staticworld.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fresnel.vimeocdn.com": {
+    "hostname": "fresnel.vimeocdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ubuntu.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fw.adsafeprotected.com": {
+    "hostname": "fw.adsafeprotected.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "garciabaameiro.com": {
+    "hostname": "garciabaameiro.com",
+    "favicon": "https://garciabaameiro.com/images/logo.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "geoservice.curse.com": {
+    "hostname": "geoservice.curse.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "get.s-onetag.com": {
+    "hostname": "get.s-onetag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aidancbrady.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "getfedora.org": {
+    "hostname": "getfedora.org",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "fonts.googleapis.com"
+    ]
+  },
+  "getgnulinux.org": {
+    "hostname": "getgnulinux.org",
+    "favicon": "https://getgnulinux.org/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "use.fontawesome.com",
+      "fonts.gstatic.com"
+    ]
+  },
+  "github.com": {
+    "hostname": "github.com",
+    "favicon": "https://assets-cdn.github.com/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "cloud.githubusercontent.com",
+      "camo.githubusercontent.com",
+      "collector.githubapp.com",
+      "www.google-analytics.com",
+      "avatars3.githubusercontent.com",
+      "avatars0.githubusercontent.com",
+      "avatars2.githubusercontent.com",
+      "avatars1.githubusercontent.com",
+      "api.github.com"
+    ]
+  },
+  "google-analytics.com": {
+    "hostname": "google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cryptoparty.ucm.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cv4.ucm.es",
+      "edu.google.com",
+      "www.youtube.com",
+      "www.reddit.com",
+      "www.profesionalreview.com",
+      "raspberryparatorpes.net",
+      "lamiradadelreplicante.com",
+      "www.bible-history.com",
+      "add0n.com",
+      "es.wikihow.com",
+      "www.google.com.mx",
+      "linuxmint.com",
+      "www.linuxadictos.com",
+      "wiki.aidancbrady.com",
+      "aidancbrady.com",
+      "vazkii.us",
+      "botaniamod.net",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads4.g.doubleclick.net": {
+    "hostname": "googleads4.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "graph.facebook.com": {
+    "hostname": "graph.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "lamiradadelreplicante.com",
+      "yts.am"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gslbeacon.lijit.com": {
+    "hostname": "gslbeacon.lijit.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gtrk.s3.amazonaws.com": {
+    "hostname": "gtrk.s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hb.sekindo.com": {
+    "hostname": "hb.sekindo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mundokodi.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hdwarena.com": {
+    "hostname": "hdwarena.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "s7.addthis.com",
+      "ajax.googleapis.com"
+    ]
+  },
+  "i.blogs.es": {
+    "hostname": "i.blogs.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xataka.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.imgur.com": {
+    "hostname": "i.imgur.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es",
+      "vazkii.us",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.pinimg.com": {
+    "hostname": "i.pinimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.vimeocdn.com": {
+    "hostname": "i.vimeocdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ubuntu.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.yldbt.com": {
+    "hostname": "i.yldbt.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.ytimg.com": {
+    "hostname": "i.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cv4.ucm.es",
+      "www.youtube.com",
+      "vazkii.us",
+      "botaniamod.net",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i0.wp.com": {
+    "hostname": "i0.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i1.wp.com": {
+    "hostname": "i1.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i1.ytimg.com": {
+    "hostname": "i1.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i2.wp.com": {
+    "hostname": "i2.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "distrowatch.com",
+      "www.linuxadictos.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "icons.el-mundo.net": {
+    "hostname": "icons.el-mundo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "id.google.es": {
+    "hostname": "id.google.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idge.staticworld.net": {
+    "hostname": "idge.staticworld.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ih.adscale.de": {
+    "hostname": "ih.adscale.de",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image6.pubmatic.com": {
+    "hostname": "image6.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imagenes.subadictos.net": {
+    "hostname": "imagenes.subadictos.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.subadictos.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images-eu.ssl-images-amazon.com": {
+    "hostname": "images-eu.ssl-images-amazon.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.profesionalreview.com",
+      "raspberryparatorpes.net",
+      "www.amazon.es",
+      "www.google.es",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images-na.ssl-images-amazon.com": {
+    "hostname": "images-na.ssl-images-amazon.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.amazon.es",
+      "www.google.es",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.idgesg.net": {
+    "hostname": "images.idgesg.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.pexels.com": {
+    "hostname": "images.pexels.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pexels.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.techhive.com": {
+    "hostname": "images.techhive.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.fenixzone.net": {
+    "hostname": "img.fenixzone.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.subadictos.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.godaddy.com": {
+    "hostname": "img.godaddy.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.godaddy.com",
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.weblogssl.com": {
+    "hostname": "img.weblogssl.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xataka.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.youtube.com": {
+    "hostname": "img.youtube.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xataka.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img1.wsimg.com": {
+    "hostname": "img1.wsimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.godaddy.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img157.imageshack.us": {
+    "hostname": "img157.imageshack.us",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "linuxzone.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "intensedebate.com": {
+    "hostname": "intensedebate.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "add0n.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jadserve.postrelease.com": {
+    "hostname": "jadserve.postrelease.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jetpack.wordpress.com": {
+    "hostname": "jetpack.wordpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "lamiradadelreplicante.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js-agent.newrelic.com": {
+    "hostname": "js-agent.newrelic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.raspberrypi.org",
+      "www.blizzard.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "kodi.tv": {
+    "hostname": "kodi.tv",
+    "favicon": "https://kodi.tv/sites/default/themes/kodi/icon.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "s7.addthis.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "www.google-analytics.com",
+      "m.addthisedge.com",
+      "m.addthis.com"
+    ]
+  },
+  "l.sharethis.com": {
+    "hostname": "l.sharethis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cryptoparty.ucm.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lamiradadelreplicante.com": {
+    "hostname": "lamiradadelreplicante.com",
+    "favicon": "https://lamiradadelreplicante.com/wp-content/uploads/fbrfg/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "secure.gravatar.com",
+      "fonts.googleapis.com",
+      "s0.wp.com",
+      "stats.wp.com",
+      "jetpack.wordpress.com",
+      "fonts.gstatic.com",
+      "pixel.wp.com",
+      "1.gravatar.com",
+      "0.gravatar.com",
+      "s2.wp.com",
+      "s1.wp.com",
+      "public-api.wordpress.com",
+      "s.w.org",
+      "www.google-analytics.com",
+      "pagead2.googlesyndication.com",
+      "graph.facebook.com",
+      "googleads.g.doubleclick.net",
+      "adservice.google.es",
+      "adservice.google.com",
+      "www.linkedin.com",
+      "tpc.googlesyndication.com",
+      "www.google.com",
+      "track.adform.net",
+      "s1.adform.net",
+      "cm.g.doubleclick.net"
+    ]
+  },
+  "lh3.googleusercontent.com": {
+    "hostname": "lh3.googleusercontent.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "edu.google.com",
+      "www.profesionalreview.com",
+      "play.google.com",
+      "chrome.google.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lh4.googleusercontent.com": {
+    "hostname": "lh4.googleusercontent.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "play.google.com",
+      "linuxzone.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lh5.googleusercontent.com": {
+    "hostname": "lh5.googleusercontent.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net",
+      "play.google.com",
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "liberapay.com": {
+    "hostname": "liberapay.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "liberarfdi.librelabucm.org": {
+    "hostname": "liberarfdi.librelabucm.org",
+    "favicon": "https://liberarfdi.librelabucm.org/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "librelabucm.org": {
+    "hostname": "librelabucm.org",
+    "favicon": "https://librelabucm.org/images/icons/favicon_llu_no_bg.png",
+    "firstPartyHostnames": [
+      "cryptoparty.ucm.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "www.google.com",
+      "cdnjs.cloudflare.com",
+      "fonts.gstatic.com",
+      "www.gstatic.com",
+      "ssl.google-analytics.com",
+      "s.w.org"
+    ]
+  },
+  "linkmaker.itunes.apple.com": {
+    "hostname": "linkmaker.itunes.apple.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "edu.google.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "linuxmint.com": {
+    "hostname": "linuxmint.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "pagead2.googlesyndication.com",
+      "googleads.g.doubleclick.net",
+      "adservice.google.es",
+      "adservice.google.com",
+      "ssl.google-analytics.com"
+    ]
+  },
+  "linuxzone.es": {
+    "hostname": "linuxzone.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": [
+      "img157.imageshack.us",
+      "s7.addthis.com",
+      "upload.wikimedia.org",
+      "apis.google.com",
+      "ajax.googleapis.com",
+      "www.facebook.com",
+      "secure.gravatar.com",
+      "s.w.org",
+      "fonts.googleapis.com",
+      "accounts.google.com",
+      "ssl.google-analytics.com",
+      "platform.twitter.com",
+      "sb.scorecardresearch.com",
+      "m.addthisedge.com",
+      "www.googletagservices.com",
+      "ssl.gstatic.com",
+      "connect.facebook.net",
+      "fonts.gstatic.com",
+      "lh4.googleusercontent.com"
+    ]
+  },
+  "live.sekindo.com": {
+    "hostname": "live.sekindo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "localhost": {
+    "hostname": "localhost",
+    "favicon": "http://localhost/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "login.wikimedia.org": {
+    "hostname": "login.wikimedia.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "en.wikipedia.org",
+      "es.wikipedia.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "logx.optimizely.com": {
+    "hostname": "logx.optimizely.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.mint.com",
+      "www.blizzard.com",
+      "worldofwarcraft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lptag.liveperson.net": {
+    "hostname": "lptag.liveperson.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.godaddy.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lrk0kdx4ri.execute-api.eu-west-1.amazonaws.com": {
+    "hostname": "lrk0kdx4ri.execute-api.eu-west-1.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xataka.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthis.com": {
+    "hostname": "m.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "kodi.tv",
+      "yts.me",
+      "www.google.es",
+      "yts.am"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.addthisedge.com": {
+    "hostname": "m.addthisedge.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "kodi.tv",
+      "yts.me",
+      "linuxzone.es",
+      "yts.am"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.media-amazon.com": {
+    "hostname": "m.media-amazon.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maps.googleapis.com": {
+    "hostname": "maps.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "divercity.librelabucm.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maps.gstatic.com": {
+    "hostname": "maps.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es",
+      "divercity.librelabucm.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "massarius-jomaanrobv.netdna-ssl.com": {
+    "hostname": "massarius-jomaanrobv.netdna-ssl.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "chathispano.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "maxcdn.bootstrapcdn.com": {
+    "hostname": "maxcdn.bootstrapcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "pool.devpgsv.com",
+      "trinity.librelabucm.org",
+      "divercity.librelabucm.org",
+      "www.linuxadictos.com",
+      "botaniamod.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "media-elerium.cursecdn.com": {
+    "hostname": "media-elerium.cursecdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "minecraft.curseforge.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "media-hearth.cursecdn.com": {
+    "hostname": "media-hearth.cursecdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "media-minecraftforum.cursecdn.com": {
+    "hostname": "media-minecraftforum.cursecdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "meta.wikimedia.org": {
+    "hostname": "meta.wikimedia.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.wikipedia.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "minecraft.curseforge.com": {
+    "hostname": "minecraft.curseforge.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "apis.google.com",
+      "secure.gravatar.com",
+      "www.google.com",
+      "tags.crwdcntrl.net",
+      "static-elerium.cursecdn.com",
+      "media-elerium.cursecdn.com",
+      "fonts.googleapis.com",
+      "www.gstatic.com"
+    ]
+  },
+  "minecraft.net": {
+    "hostname": "minecraft.net",
+    "favicon": "https://minecraft.net/favicon-16x16.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "fonts.googleapis.com",
+      "nexus.ensighten.com",
+      "uhf.microsoft.com",
+      "community-content-assets.minecraft.net",
+      "az725175.vo.msecnd.net",
+      "api.mojang.com",
+      "web.vortex.data.microsoft.com"
+    ]
+  },
+  "modlist.mcf.li": {
+    "hostname": "modlist.mcf.li",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mona.admanmedia.com": {
+    "hostname": "mona.admanmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecrafteo.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mundokodi.com": {
+    "hostname": "mundokodi.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "s.clickiocdn.com",
+      "0.gravatar.com",
+      "fonts.gstatic.com",
+      "hb.sekindo.com",
+      "api.at.getsocial.io",
+      "adserver.adtech.de",
+      "www.paypalobjects.com",
+      "www.facebook.com",
+      "s.w.org",
+      "c.disquscdn.com"
+    ]
+  },
+  "muylinux.disqus.com": {
+    "hostname": "muylinux.disqus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.muylinux.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "netdna.bootstrapcdn.com": {
+    "hostname": "netdna.bootstrapcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "trinity.librelabucm.org",
+      "wiki.aidancbrady.com",
+      "aidancbrady.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nexus.ensighten.com": {
+    "hostname": "nexus.ensighten.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "minecraft.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nord.subadictos.net": {
+    "hostname": "nord.subadictos.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.subadictos.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "o.aolcdn.com": {
+    "hostname": "o.aolcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "overthewire.org": {
+    "hostname": "overthewire.org",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "ssl.gstatic.com"
+    ]
+  },
+  "p.skimresources.com": {
+    "hostname": "p.skimresources.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.profesionalreview.com",
+      "raspberryparatorpes.net",
+      "lamiradadelreplicante.com",
+      "www.google.es",
+      "www.guiadegrecia.com",
+      "www.bible-history.com",
+      "divercity.librelabucm.org",
+      "add0n.com",
+      "es.wikihow.com",
+      "linuxmint.com",
+      "www.linuxadictos.com",
+      "wiki.aidancbrady.com",
+      "aidancbrady.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "partner.googleadservices.com": {
+    "hostname": "partner.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xataka.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pbs.twimg.com": {
+    "hostname": "pbs.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telegram.org",
+      "cienciaindignada.com",
+      "twitter.com",
+      "www.voidlinux.eu",
+      "www.linuxadictos.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pccomponentes.salesmanago.com": {
+    "hostname": "pccomponentes.salesmanago.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "phb-tailormade.appspot.com": {
+    "hostname": "phb-tailormade.appspot.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xataka.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "piwik.gentoo.org": {
+    "hostname": "piwik.gentoo.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.gentoo.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.quantserve.com": {
+    "hostname": "pixel.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "es.wordpress.org",
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.wp.com": {
+    "hostname": "pixel.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net",
+      "lamiradadelreplicante.com",
+      "es.wordpress.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.yabidos.com": {
+    "hostname": "pixel.yabidos.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.zumby.io": {
+    "hostname": "pixel.zumby.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixelcounter.elmundo.es": {
+    "hostname": "pixelcounter.elmundo.es",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform-api.sharethis.com": {
+    "hostname": "platform-api.sharethis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cryptoparty.ucm.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telegram.org",
+      "cienciaindignada.com",
+      "www.voidlinux.eu",
+      "linuxzone.es",
+      "aidancbrady.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "play.google.com": {
+    "hostname": "play.google.com",
+    "favicon": "https://www.gstatic.com/android/market_images/web/favicon_v2.ico",
+    "firstPartyHostnames": [
+      "edu.google.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "www.gstatic.com",
+      "lh3.googleusercontent.com",
+      "ajax.googleapis.com",
+      "www.google-analytics.com",
+      "fonts.gstatic.com",
+      "apis.google.com",
+      "ssl.gstatic.com",
+      "lh5.googleusercontent.com",
+      "www.google.com",
+      "lh4.googleusercontent.com"
+    ]
+  },
+  "player.vimeo.com": {
+    "hostname": "player.vimeo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ubuntu.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pool.devpgsv.com": {
+    "hostname": "pool.devpgsv.com",
+    "favicon": "https://pool.devpgsv.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "maxcdn.bootstrapcdn.com",
+      "ajax.googleapis.com"
+    ]
+  },
+  "prebid.districtm.ca": {
+    "hostname": "prebid.districtm.ca",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "distrowatch.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pro.ip-api.com": {
+    "hostname": "pro.ip-api.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "profesionalreviewc.disqus.com": {
+    "hostname": "profesionalreviewc.disqus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.profesionalreview.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "public-api.wordpress.com": {
+    "hostname": "public-api.wordpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "lamiradadelreplicante.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "puu.sh": {
+    "hostname": "puu.sh",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "quark.vazkii.us": {
+    "hostname": "quark.vazkii.us",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "cdnjs.cloudflare.com",
+      "vazkii.us",
+      "fonts.gstatic.com",
+      "cf.way2muchnoise.eu"
+    ]
+  },
+  "r.skimresources.com": {
+    "hostname": "r.skimresources.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r2017.zetaestaticos.com": {
+    "hostname": "r2017.zetaestaticos.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elperiodicoextremadura.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "raspberryparatorpes.disqus.com": {
+    "hostname": "raspberryparatorpes.disqus.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "raspberryparatorpes.net": {
+    "hostname": "raspberryparatorpes.net",
+    "favicon": "https://i2.wp.com/raspberryparatorpes.net/wp-content/uploads/2015/01/cropped-raspberryparatorpes-54b45369v1_site_icon.png?fit=32%2C32&ssl=1",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "www.google.com",
+      "pagead2.googlesyndication.com",
+      "i1.wp.com",
+      "i0.wp.com",
+      "i2.wp.com",
+      "secure.gravatar.com",
+      "s0.wp.com",
+      "liberapay.com",
+      "stats.wp.com",
+      "fonts.gstatic.com",
+      "googleads.g.doubleclick.net",
+      "adservice.google.es",
+      "adservice.google.com",
+      "cse.google.com",
+      "apis.google.com",
+      "rcm-eu.amazon-adsystem.com",
+      "accounts.google.com",
+      "raspberryparatorpes.disqus.com",
+      "ssl.gstatic.com",
+      "images-eu.ssl-images-amazon.com",
+      "www.googleapis.com",
+      "connect.facebook.net",
+      "lh5.googleusercontent.com",
+      "fls-eu.amazon-adsystem.com",
+      "clients1.google.com",
+      "staticxx.facebook.com",
+      "www.facebook.com",
+      "scontent.fmad3-6.fna.fbcdn.net",
+      "pixel.wp.com",
+      "tpc.googlesyndication.com",
+      "s0.2mdn.net"
+    ]
+  },
+  "rcm-eu.amazon-adsystem.com": {
+    "hostname": "rcm-eu.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "redair.es": {
+    "hostname": "redair.es",
+    "favicon": "https://redair.es/sites/default/files/Captura.PNG",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "www.google-analytics.com"
+    ]
+  },
+  "refer.wordpress.com": {
+    "hostname": "refer.wordpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "retropie.org.uk": {
+    "hostname": "retropie.org.uk",
+    "favicon": "https://retropie.org.uk/wp-content/uploads/2016/04/cropped-RetroPie_Logo-150x150.png",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.youtube.com",
+      "s.ytimg.com",
+      "www.google-analytics.com"
+    ]
+  },
+  "rules.quantcount.com": {
+    "hostname": "rules.quantcount.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "es.wordpress.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rys.devpgsv.com": {
+    "hostname": "rys.devpgsv.com",
+    "favicon": "https://rys.devpgsv.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "s.clickiocdn.com": {
+    "hostname": "s.clickiocdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mundokodi.com",
+      "distrowatch.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.el-mundo.net": {
+    "hostname": "s.el-mundo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.elmundo.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.gravatar.com": {
+    "hostname": "s.gravatar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "aidancbrady.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ntv.io": {
+    "hostname": "s.ntv.io",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.skimresources.com": {
+    "hostname": "s.skimresources.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.w.org": {
+    "hostname": "s.w.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mundokodi.com",
+      "lamiradadelreplicante.com",
+      "librelabucm.org",
+      "es.wordpress.org",
+      "linuxzone.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.yimg.com": {
+    "hostname": "s.yimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.godaddy.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ynet.me": {
+    "hostname": "s.ynet.me",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "yts.me"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ytimg.com": {
+    "hostname": "s.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "edu.google.com",
+      "www.youtube.com",
+      "retropie.org.uk",
+      "www.xataka.com",
+      "es.godaddy.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.2mdn.net": {
+    "hostname": "s0.2mdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net",
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.wp.com": {
+    "hostname": "s0.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net",
+      "lamiradadelreplicante.com",
+      "www.minecrafteo.com",
+      "aidancbrady.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1.adform.net": {
+    "hostname": "s1.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "lamiradadelreplicante.com",
+      "es.wikihow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1.wp.com": {
+    "hostname": "s1.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "lamiradadelreplicante.com",
+      "es.wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s2.wp.com": {
+    "hostname": "s2.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "lamiradadelreplicante.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s3.amazonaws.com": {
+    "hostname": "s3.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.bible-history.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s7.addthis.com": {
+    "hostname": "s7.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "kodi.tv",
+      "yts.me",
+      "hdwarena.com",
+      "linuxzone.es",
+      "yts.am"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "linuxzone.es",
+      "www.linuxadictos.com",
+      "chathispano.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scontent.fmad3-6.fna.fbcdn.net": {
+    "hostname": "scontent.fmad3-6.fna.fbcdn.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.facebook.com",
+      "raspberryparatorpes.net",
+      "cienciaindignada.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.hotjar.com": {
+    "hostname": "script.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sdk.amazonaws.com": {
+    "hostname": "sdk.amazonaws.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-assets.rubiconproject.com": {
+    "hostname": "secure-assets.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-ds.serving-sys.com": {
+    "hostname": "secure-ds.serving-sys.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "worldofwarcraft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-us.imrworldwide.com": {
+    "hostname": "secure-us.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.gravatar.com": {
+    "hostname": "secure.gravatar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net",
+      "lamiradadelreplicante.com",
+      "linuxzone.es",
+      "minecraft.curseforge.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.quantserve.com": {
+    "hostname": "secure.quantserve.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "es.wordpress.org",
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.statcounter.com": {
+    "hostname": "secure.statcounter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.muylinux.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "www.youtube.com",
+      "es.wikihow.com",
+      "www.linuxadictos.com",
+      "www.minecraftforum.net",
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "servedbyadbutler.com": {
+    "hostname": "servedbyadbutler.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.profesionalreview.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "services.beon4u.com": {
+    "hostname": "services.beon4u.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "simage4.pubmatic.com": {
+    "hostname": "simage4.pubmatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sjrtp3-cdn.marketo.com": {
+    "hostname": "sjrtp3-cdn.marketo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ubuntu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.google-analytics.com": {
+    "hostname": "ssl.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cv.ucm.es",
+      "librelabucm.org",
+      "www.reddit.com",
+      "es.wordpress.org",
+      "addons.mozilla.org",
+      "www.google.com.mx",
+      "chrome.google.com",
+      "www.ubuntu.com",
+      "linuxmint.com",
+      "linuxzone.es",
+      "www.google.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.gstatic.com": {
+    "hostname": "ssl.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es",
+      "cv4.ucm.es",
+      "accounts.google.com",
+      "calendar.librelabucm.org",
+      "translate.google.es",
+      "www.profesionalreview.com",
+      "raspberryparatorpes.net",
+      "play.google.com",
+      "cryptoparty.ucm.es",
+      "es.wikihow.com",
+      "chrome.google.com",
+      "linuxzone.es",
+      "www.muylinux.com",
+      "www.minecraftforum.net",
+      "www.google.com",
+      "overthewire.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.p.jwpcdn.com": {
+    "hostname": "ssl.p.jwpcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sso.ucm.es": {
+    "hostname": "sso.ucm.es",
+    "favicon": "https://sso.ucm.es/favicon.ico",
+    "firstPartyHostnames": [
+      "cv.ucm.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com"
+    ]
+  },
+  "stags.bluekai.com": {
+    "hostname": "stags.bluekai.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stallman.org": {
+    "hostname": "stallman.org",
+    "favicon": "https://stallman.org/rms.png",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "static-elerium.cursecdn.com": {
+    "hostname": "static-elerium.cursecdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "minecraft.curseforge.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static-minecraftforum.cursecdn.com": {
+    "hostname": "static-minecraftforum.cursecdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.addevweb.com": {
+    "hostname": "static.addevweb.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "chathispano.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.ads-twitter.com": {
+    "hostname": "static.ads-twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com",
+      "es.godaddy.com",
+      "es.wordpress.com",
+      "www.ubuntu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.beon4u.com": {
+    "hostname": "static.beon4u.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.criteo.net": {
+    "hostname": "static.criteo.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.wordpress.com",
+      "www.minecraftforum.net",
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.dondominio.net": {
+    "hostname": "static.dondominio.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.dondominio.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.doubleclick.net": {
+    "hostname": "static.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cv4.ucm.es",
+      "edu.google.com",
+      "www.youtube.com",
+      "www.google.com.mx",
+      "aidancbrady.com",
+      "vazkii.us",
+      "botaniamod.net",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.hotjar.com": {
+    "hostname": "static.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.olark.com": {
+    "hostname": "static.olark.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.pexels.com": {
+    "hostname": "static.pexels.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "staticxx.facebook.com": {
+    "hostname": "staticxx.facebook.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net",
+      "apartamentosgrajera.es",
+      "es.wikihow.com",
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "cienciaindignada.com",
+      "www.ubuntu.com",
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.openmandriva.org": {
+    "hostname": "stats.openmandriva.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.openmandriva.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.wp.com": {
+    "hostname": "stats.wp.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net",
+      "lamiradadelreplicante.com",
+      "es.wordpress.org",
+      "aidancbrady.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "storage.googleapis.com": {
+    "hostname": "storage.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "store.edgecast.steamstatic.com": {
+    "hostname": "store.edgecast.steamstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "store.steampowered.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "store.steampowered.com": {
+    "hostname": "store.steampowered.com",
+    "favicon": "http://store.steampowered.com/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "cdn.edgecast.steamstatic.com",
+      "store.edgecast.steamstatic.com",
+      "www.google-analytics.com"
+    ]
+  },
+  "su.addthis.com": {
+    "hostname": "su.addthis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "yts.me"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "subadictos.net": {
+    "hostname": "subadictos.net",
+    "favicon": "http://subadictos.net/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.subadictos.net"
+    ]
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telegram.org",
+      "twitter.com",
+      "cienciaindignada.com",
+      "www.voidlinux.eu",
+      "aidancbrady.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.audience.network": {
+    "hostname": "t.audience.network",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xataka.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.co": {
+    "hostname": "t.co",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.crunchbase.com",
+      "es.godaddy.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.skimresources.com": {
+    "hostname": "t.skimresources.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tag.contextweb.com": {
+    "hostname": "tag.contextweb.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tag.nrich.ai": {
+    "hostname": "tag.nrich.ai",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ubuntu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.bkrtx.com": {
+    "hostname": "tags.bkrtx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.crwdcntrl.net": {
+    "hostname": "tags.crwdcntrl.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "minecraft.curseforge.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.tiqcdn.com": {
+    "hostname": "tags.tiqcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.godaddy.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tap-secure.rubiconproject.com": {
+    "hostname": "tap-secure.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "telegram.org": {
+    "hostname": "telegram.org",
+    "favicon": "https://telegram.org/favicon.ico?3",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google-analytics.com",
+      "platform.twitter.com",
+      "cdn.syndication.twimg.com",
+      "syndication.twitter.com",
+      "abs.twimg.com",
+      "pbs.twimg.com",
+      "ton.twimg.com"
+    ]
+  },
+  "thumb.pccomponentes.com": {
+    "hostname": "thumb.pccomponentes.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "thumbs.gfycat.com": {
+    "hostname": "thumbs.gfycat.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "botaniamod.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "token.rubiconproject.com": {
+    "hostname": "token.rubiconproject.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ton.twimg.com": {
+    "hostname": "ton.twimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "telegram.org",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "raspberryparatorpes.net",
+      "lamiradadelreplicante.com",
+      "www.bible-history.com",
+      "add0n.com",
+      "es.wikihow.com",
+      "www.linuxadictos.com",
+      "aidancbrady.com",
+      "wiki.aidancbrady.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "track.adform.net": {
+    "hostname": "track.adform.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "lamiradadelreplicante.com",
+      "www.google.es",
+      "es.wikihow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "translate.google.es": {
+    "hostname": "translate.google.es",
+    "favicon": "https://translate.google.es/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.gstatic.com",
+      "ssl.gstatic.com",
+      "apis.google.com",
+      "www.google.com",
+      "aur.archlinux.org",
+      "ajax.googleapis.com",
+      "csi.gstatic.com"
+    ]
+  },
+  "trinity.librelabucm.org": {
+    "hostname": "trinity.librelabucm.org",
+    "favicon": "https://trinity.librelabucm.org/img/favicon.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "maxcdn.bootstrapcdn.com",
+      "ajax.googleapis.com",
+      "netdna.bootstrapcdn.com"
+    ]
+  },
+  "twitter.com": {
+    "hostname": "twitter.com",
+    "favicon": "https://abs.twimg.com/favicons/favicon.ico",
+    "firstPartyHostnames": [
+      "cienciaindignada.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "abs.twimg.com",
+      "www.google-analytics.com",
+      "syndication.twitter.com",
+      "pbs.twimg.com"
+    ]
+  },
+  "uhf.microsoft.com": {
+    "hostname": "uhf.microsoft.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "minecraft.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "unagi-eu.amazon.com": {
+    "hostname": "unagi-eu.amazon.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "upload.wikimedia.org": {
+    "hostname": "upload.wikimedia.org",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "en.wikipedia.org",
+      "es.wikipedia.org",
+      "linuxzone.es"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "us.battle.net": {
+    "hostname": "us.battle.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "eu.battle.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "use.fontawesome.com": {
+    "hostname": "use.fontawesome.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "getgnulinux.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vars.hotjar.com": {
+    "hostname": "vars.hotjar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vazkii.us": {
+    "hostname": "vazkii.us",
+    "favicon": "https://vazkii.us/favicon.ico",
+    "firstPartyHostnames": [
+      "quark.vazkii.us"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "googleads.g.doubleclick.net",
+      "botaniamod.net",
+      "static.doubleclick.net",
+      "fonts.gstatic.com",
+      "www.youtube.com",
+      "i.ytimg.com",
+      "fonts.googleapis.com",
+      "i.imgur.com",
+      "widget.battleforthenet.com",
+      "cdn.ravenjs.com"
+    ]
+  },
+  "velocecdn.com": {
+    "hostname": "velocecdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "yts.am"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "venturead.com": {
+    "hostname": "venturead.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "yts.am"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vimeo.com": {
+    "hostname": "vimeo.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ubuntu.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wallpaperbrowse.com": {
+    "hostname": "wallpaperbrowse.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "fonts.googleapis.com",
+      "contextual.media.net"
+    ]
+  },
+  "web.vortex.data.microsoft.com": {
+    "hostname": "web.vortex.data.microsoft.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "minecraft.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widget.battleforthenet.com": {
+    "hostname": "widget.battleforthenet.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "vazkii.us"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wiki-adictos.subadictos.net": {
+    "hostname": "wiki-adictos.subadictos.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.subadictos.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wiki.aidancbrady.com": {
+    "hostname": "wiki.aidancbrady.com",
+    "favicon": "http://wiki.aidancbrady.com/w/skins/common/images/favicon/aidancbrady.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "netdna.bootstrapcdn.com",
+      "pagead2.googlesyndication.com",
+      "adservice.google.com",
+      "adservice.google.es",
+      "googleads.g.doubleclick.net",
+      "www.google-analytics.com",
+      "tpc.googlesyndication.com",
+      "cm.g.doubleclick.net",
+      "www.google.com"
+    ]
+  },
+  "wiki.archlinux.org": {
+    "hostname": "wiki.archlinux.org",
+    "favicon": "https://wiki.archlinux.org/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "wordpress.com": {
+    "hostname": "wordpress.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.wordpress.org",
+      "es.wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "worldofwarcraft.akamaized.net": {
+    "hostname": "worldofwarcraft.akamaized.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "worldofwarcraft.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "worldofwarcraft.com": {
+    "hostname": "worldofwarcraft.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": [
+      "blznav.akamaized.net",
+      "cdn.optimizely.com",
+      "bnetus-a.akamaihd.net",
+      "logx.optimizely.com",
+      "worldofwarcraft.akamaized.net",
+      "bnetcmsus-a.akamaihd.net",
+      "a8270235338.cdn.optimizely.com",
+      "www.googletagmanager.com",
+      "bs.serving-sys.com",
+      "www.google-analytics.com",
+      "secure-ds.serving-sys.com",
+      "www.googleadservices.com"
+    ]
+  },
+  "ww264.smartadserver.com": {
+    "hostname": "ww264.smartadserver.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "chathispano.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.amazon.es": {
+    "hostname": "www.amazon.es",
+    "favicon": "https://www.amazon.es/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es",
+      "www.offensive-security.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "images-eu.ssl-images-amazon.com",
+      "images-na.ssl-images-amazon.com",
+      "fls-eu.amazon.es"
+    ]
+  },
+  "www.archlinux.org": {
+    "hostname": "www.archlinux.org",
+    "favicon": "https://www.archlinux.org/static/favicon.29302f683ff8.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.ayts.am": {
+    "hostname": "www.ayts.am",
+    "favicon": "chrome://global/skin/icons/warning-16.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.beon4u.com": {
+    "hostname": "www.beon4u.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.bible-history.com": {
+    "hostname": "www.bible-history.com",
+    "favicon": "http://www.bible-history.com/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "campayn.s3.amazonaws.com",
+      "code.jquery.com",
+      "abtrcking.com",
+      "pagead2.googlesyndication.com",
+      "www.google-analytics.com",
+      "googleads.g.doubleclick.net",
+      "adservice.google.es",
+      "adservice.google.com",
+      "s3.amazonaws.com",
+      "fonts.googleapis.com",
+      "tpc.googlesyndication.com",
+      "www.google.com",
+      "cm.g.doubleclick.net",
+      "cms.quantserve.com",
+      "fonts.gstatic.com",
+      "www.gstatic.com"
+    ]
+  },
+  "www.blizzard.com": {
+    "hostname": "www.blizzard.com",
+    "favicon": "https://d9me64que7cqs.cloudfront.net/images/favicon-cb34a003c6f2f637ee8f4f7b406f3b9b120b918c04cabec7f03a760e708977ea9689a1c638f4396def8dce7b202cd007eae91946cc3c4a578aa8b5694226cfc6.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "cdn.optimizely.com",
+      "d9me64que7cqs.cloudfront.net",
+      "blznav.akamaized.net",
+      "a8270235338.cdn.optimizely.com",
+      "logx.optimizely.com",
+      "bnetcmsus-a.akamaihd.net",
+      "www.googletagmanager.com",
+      "js-agent.newrelic.com",
+      "www.google-analytics.com",
+      "bam.nr-data.net"
+    ]
+  },
+  "www.cienciaindignada.com": {
+    "hostname": "www.cienciaindignada.com",
+    "favicon": "http://www.cienciaindignada.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.cienciaindignada.org": {
+    "hostname": "www.cienciaindignada.org",
+    "favicon": "chrome://global/skin/icons/warning-16.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.clickcease.com": {
+    "hostname": "www.clickcease.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.wordpress.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.crunchbase.com": {
+    "hostname": "www.crunchbase.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "www.googletagmanager.com",
+      "fonts.gstatic.com",
+      "o.aolcdn.com",
+      "crunchbase-production-res.cloudinary.com",
+      "assets.zendesk.com",
+      "static.ads-twitter.com",
+      "cdn.walkme.com",
+      "cdn.branch.io",
+      "static.olark.com",
+      "cdn.heapanalytics.com",
+      "t.co",
+      "b.aol.com",
+      "app.link",
+      "aol.demdex.net",
+      "api.autopilothq.com"
+    ]
+  },
+  "www.cryptoparty.in": {
+    "hostname": "www.cryptoparty.in",
+    "favicon": "https://www.cryptoparty.in/_media/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdn.rawgit.com"
+    ]
+  },
+  "www.debian.org": {
+    "hostname": "www.debian.org",
+    "favicon": "https://www.debian.org/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.dondominio.com": {
+    "hostname": "www.dondominio.com",
+    "favicon": "https://static.dondominio.net/images/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "fonts.googleapis.com",
+      "static.dondominio.net",
+      "fonts.gstatic.com",
+      "bat.bing.com",
+      "www.google-analytics.com",
+      "chat.dondominio.com",
+      "connect.facebook.net",
+      "www.facebook.com"
+    ]
+  },
+  "www.drupal.org": {
+    "hostname": "www.drupal.org",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "fonts.googleapis.com",
+      "www.facebook.com"
+    ]
+  },
+  "www.elmundo.es": {
+    "hostname": "www.elmundo.es",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "active.cache.el-mundo.net",
+      "estaticos.cookies.unidadeditorial.es",
+      "e04-elmundo.uecdn.es",
+      "e01-elmundo.uecdn.es",
+      "e00-elmundo.uecdn.es",
+      "estaticos.elmundo.es",
+      "e03-elmundo.uecdn.es",
+      "icons.el-mundo.net",
+      "s.el-mundo.net",
+      "pixelcounter.elmundo.es",
+      "e02-elmundo.uecdn.es",
+      "pixel.zumby.io",
+      "advertising.el-mundo.net"
+    ]
+  },
+  "www.elperiodicoextremadura.com": {
+    "hostname": "www.elperiodicoextremadura.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "r2017.zetaestaticos.com"
+    ]
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "favicon": "https://static.xx.fbcdn.net/rsrc.php/yl/r/H3nktOa7ZMg.ico",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net",
+      "mundokodi.com",
+      "cienciaindignada.com",
+      "www.dondominio.com",
+      "www.drupal.org",
+      "apartamentosgrajera.es",
+      "www.pexels.com",
+      "es.wikihow.com",
+      "www.mint.com",
+      "linuxzone.es",
+      "www.linuxadictos.com",
+      "www.pccomponentes.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "scontent.fmad3-6.fna.fbcdn.net"
+    ]
+  },
+  "www.gentoo.org": {
+    "hostname": "www.gentoo.org",
+    "favicon": "https://www.gentoo.org/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "assets.gentoo.org",
+      "piwik.gentoo.org"
+    ]
+  },
+  "www.gnu.org": {
+    "hostname": "www.gnu.org",
+    "favicon": "https://www.gnu.org/graphics/gnu-head-mini.png",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "addons.mozilla.org",
+      "www.ucm.es",
+      "cv4.ucm.es",
+      "edu.google.com",
+      "www.reddit.com",
+      "archlinuxarm.org",
+      "retropie.org.uk",
+      "www.profesionalreview.com",
+      "github.com",
+      "www.raspberrypi.org",
+      "kodi.tv",
+      "play.google.com",
+      "core.telegram.org",
+      "telegram.org",
+      "brew.sh",
+      "lamiradadelreplicante.com",
+      "twitter.com",
+      "www.bible-history.com",
+      "cryptoparty.ucm.es",
+      "cienciaindignada.com",
+      "yts.me",
+      "www.dondominio.com",
+      "es.wordpress.com",
+      "redair.es",
+      "www.pexels.com",
+      "es.wikihow.com",
+      "www.ubuntu.com",
+      "www.linuxadictos.com",
+      "www.mozilla.org",
+      "store.steampowered.com",
+      "www.blizzard.com",
+      "eu.battle.net",
+      "worldofwarcraft.com",
+      "aidancbrady.com",
+      "wiki.aidancbrady.com",
+      "www.minecraftforum.net",
+      "choosealicense.com",
+      "chathispano.com",
+      "www.google.com",
+      "yts.am",
+      "www.pccomponentes.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "favicon": "https://www.google.com/drive/static/images/drive/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es",
+      "sso.ucm.es",
+      "cv4.ucm.es",
+      "edu.google.com",
+      "librelabucm.org",
+      "www.reddit.com",
+      "www.youtube.com",
+      "translate.google.es",
+      "raspberryparatorpes.net",
+      "play.google.com",
+      "lamiradadelreplicante.com",
+      "www.bible-history.com",
+      "cryptoparty.ucm.es",
+      "add0n.com",
+      "es.wikihow.com",
+      "www.google.com.mx",
+      "chrome.google.com",
+      "www.mint.com",
+      "www.pcworld.com",
+      "www.linuxadictos.com",
+      "minecraft.curseforge.com",
+      "aidancbrady.com",
+      "wiki.aidancbrady.com",
+      "botaniamod.net",
+      "vazkii.us",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "www.google-analytics.com",
+      "apis.google.com",
+      "ssl.google-analytics.com",
+      "accounts.google.com",
+      "fonts.googleapis.com",
+      "ssl.gstatic.com",
+      "fonts.gstatic.com",
+      "www.gstatic.com"
+    ]
+  },
+  "www.google.com.mx": {
+    "hostname": "www.google.com.mx",
+    "favicon": "https://www.google.com/images/icons/product/chrome-32.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "www.gstatic.com",
+      "www.google.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "apis.google.com",
+      "www.youtube.com",
+      "ssl.google-analytics.com",
+      "static.doubleclick.net",
+      "googleads.g.doubleclick.net",
+      "accounts.google.com"
+    ]
+  },
+  "www.google.es": {
+    "hostname": "www.google.es",
+    "favicon": "https://www.google.es/favicon.ico",
+    "firstPartyHostnames": [
+      "edu.google.com",
+      "www.reddit.com",
+      "www.youtube.com",
+      "aur.archlinux.org",
+      "github.com",
+      "www.xataka.com",
+      "play.google.com",
+      "es.godaddy.com",
+      "www.dondominio.com",
+      "es.wordpress.com",
+      "www.joomla.org",
+      "www.drupal.org",
+      "hdwarena.com",
+      "www.pexels.com",
+      "wallpaperbrowse.com",
+      "addons.mozilla.org",
+      "www.google.com.mx",
+      "chrome.google.com",
+      "www.ubuntu.com",
+      "es.wikipedia.org",
+      "en.wikipedia.org",
+      "getfedora.org",
+      "linuxmint.com",
+      "www.redhat.com",
+      "www.elperiodicoextremadura.com",
+      "www.mozilla.org",
+      "minecraft.net",
+      "store.steampowered.com",
+      "www.blizzard.com",
+      "minecraft.curseforge.com",
+      "www.minecrafteo.com",
+      "botaniamod.net",
+      "www.minecraftforum.net",
+      "www.torproject.org",
+      "www.amazon.es",
+      "www.offensive-security.com",
+      "overthewire.org"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "adservice.google.es",
+      "id.google.es",
+      "www.ucm.es",
+      "www.google.com",
+      "apis.google.com",
+      "ssl.gstatic.com",
+      "www.gstatic.com",
+      "fonts.gstatic.com",
+      "www.youtube.com",
+      "wiki.archlinux.org",
+      "translate.google.es",
+      "archlinuxarm.org",
+      "en.wikipedia.org",
+      "www.crunchbase.com",
+      "retropie.org.uk",
+      "www.raspberrypi.org",
+      "es.wikipedia.org",
+      "mundokodi.com",
+      "github.com",
+      "lamiradadelreplicante.com",
+      "pagead2.googlesyndication.com",
+      "track.adform.net",
+      "www.guiadegrecia.com",
+      "www.bible-history.com",
+      "maps.gstatic.com",
+      "m.addthis.com",
+      "es.godaddy.com",
+      "img.godaddy.com",
+      "www.dondominio.com",
+      "es.wordpress.org",
+      "i.imgur.com",
+      "www.pexels.com",
+      "i.pinimg.com",
+      "static.pexels.com",
+      "addons.mozilla.org",
+      "es.wikihow.com",
+      "chrome.google.com",
+      "www.debian.org",
+      "debian-handbook.info",
+      "www.archlinux.org",
+      "www.ubuntu.com",
+      "lh5.googleusercontent.com",
+      "www.mint.com",
+      "www.voidlinux.eu",
+      "www.slackware.com",
+      "linuxzone.es",
+      "getgnulinux.org",
+      "www.gnu.org",
+      "www.muylinux.com",
+      "stallman.org",
+      "www.mozilla.org",
+      "store.steampowered.com",
+      "worldofwarcraft.com",
+      "wiki.aidancbrady.com",
+      "consent.google.com",
+      "duckduckgo.com",
+      "www.torproject.org",
+      "www.pccomponentes.com",
+      "m.media-amazon.com",
+      "images-eu.ssl-images-amazon.com",
+      "images-na.ssl-images-amazon.com",
+      "www.amazon.es",
+      "aax-eu.amazon-adsystem.com"
+    ]
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "edu.google.com",
+      "www.reddit.com",
+      "es.wordpress.com",
+      "worldofwarcraft.com",
+      "www.minecraftforum.net",
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleapis.com": {
+    "hostname": "www.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "raspberryparatorpes.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "edu.google.com",
+      "www.reddit.com",
+      "www.crunchbase.com",
+      "www.ubuntu.com",
+      "www.mozilla.org",
+      "www.blizzard.com",
+      "eu.battle.net",
+      "worldofwarcraft.com",
+      "www.minecraftforum.net",
+      "chathispano.com",
+      "yts.am",
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com",
+      "es.wikihow.com",
+      "distrowatch.com",
+      "linuxzone.es",
+      "www.linuxadictos.com",
+      "www.minecraftforum.net",
+      "chathispano.com",
+      "www.pccomponentes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gravatar.com": {
+    "hostname": "www.gravatar.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.xataka.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es",
+      "cv4.ucm.es",
+      "librelabucm.org",
+      "calendar.librelabucm.org",
+      "translate.google.es",
+      "play.google.com",
+      "www.bible-history.com",
+      "cryptoparty.ucm.es",
+      "www.google.com.mx",
+      "www.pcworld.com",
+      "minecraft.curseforge.com",
+      "botaniamod.net",
+      "www.minecraftforum.net",
+      "chrome.google.com",
+      "www.google.com",
+      "www.offensive-security.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.guiadegrecia.com": {
+    "hostname": "www.guiadegrecia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": [
+      "pagead2.googlesyndication.com",
+      "adservice.google.com",
+      "adservice.google.es"
+    ]
+  },
+  "www.hyperrealm.com": {
+    "hostname": "www.hyperrealm.com",
+    "favicon": "http://www.hyperrealm.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.intensedebate.com": {
+    "hostname": "www.intensedebate.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "add0n.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.joomla.org": {
+    "hostname": "www.joomla.org",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es"
+    ]
+  },
+  "www.librelabucm.com": {
+    "hostname": "www.librelabucm.com",
+    "favicon": "chrome://global/skin/icons/warning-16.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.linkedin.com": {
+    "hostname": "www.linkedin.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "lamiradadelreplicante.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.linuxadictos.com": {
+    "hostname": "www.linuxadictos.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "s.skimresources.com",
+      "www.beon4u.com",
+      "ajax.googleapis.com",
+      "fonts.googleapis.com",
+      "cdnjs.cloudflare.com",
+      "static.beon4u.com",
+      "sdk.amazonaws.com",
+      "pagead2.googlesyndication.com",
+      "www.google-analytics.com",
+      "sb.scorecardresearch.com",
+      "www.googletagservices.com",
+      "connect.facebook.net",
+      "p.skimresources.com",
+      "r.skimresources.com",
+      "adservice.google.es",
+      "adservice.google.com",
+      "googleads.g.doubleclick.net",
+      "securepubads.g.doubleclick.net",
+      "stats.g.doubleclick.net",
+      "maxcdn.bootstrapcdn.com",
+      "t.skimresources.com",
+      "fonts.gstatic.com",
+      "services.beon4u.com",
+      "tpc.googlesyndication.com",
+      "pbs.twimg.com",
+      "staticxx.facebook.com",
+      "acdn.adnxs.com",
+      "s0.2mdn.net",
+      "pro.ip-api.com",
+      "www.facebook.com",
+      "www.google.com",
+      "pixel.yabidos.com",
+      "ced.sascdn.com",
+      "googleads4.g.doubleclick.net",
+      "live.sekindo.com",
+      "ib.adnxs.com",
+      "www8.smartadserver.com",
+      "ced-ns.sascdn.com",
+      "cognito-identity.eu-west-1.amazonaws.com",
+      "csync.smartadserver.com",
+      "ad.doubleclick.net",
+      "ec-ns.sascdn.com",
+      "pixel.quantserve.com",
+      "ad.turn.com",
+      "ams1-ib.adnxs.com",
+      "cookie-matching.mediarithmics.com",
+      "bh.contextweb.com",
+      "cstatic.weborama.fr",
+      "ih.adscale.de",
+      "csi.gstatic.com",
+      "c.deployads.com",
+      "ad.atdmt.com",
+      "ad.360yield.com",
+      "ads.stickyadstv.com",
+      "espfx.solution.weborama.fr",
+      "secure.quantserve.com"
+    ]
+  },
+  "www.macports.org": {
+    "hostname": "www.macports.org",
+    "favicon": "https://www.macports.org/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.minecrafteo.com": {
+    "hostname": "www.minecrafteo.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "apis.google.com",
+      "fonts.googleapis.com",
+      "s0.wp.com",
+      "cdnjs.cloudflare.com",
+      "mona.admanmedia.com",
+      "es.ads.justpremium.com",
+      "fonts.gstatic.com"
+    ]
+  },
+  "www.minecraftforum.net": {
+    "hostname": "www.minecraftforum.net",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "apis.google.com",
+      "www.google.com",
+      "static-minecraftforum.cursecdn.com",
+      "media-minecraftforum.cursecdn.com",
+      "media-hearth.cursecdn.com",
+      "i.imgur.com",
+      "modlist.mcf.li",
+      "fonts.googleapis.com",
+      "ads.pubmatic.com",
+      "www.gstatic.com",
+      "www.gravatar.com",
+      "puu.sh",
+      "cdm.cursecdn.com",
+      "dl.dropboxusercontent.com",
+      "www.youtube.com",
+      "achievecraft.com",
+      "fonts.gstatic.com",
+      "geoservice.curse.com",
+      "ib.adnxs.com",
+      "tags.crwdcntrl.net",
+      "aka-cdn-ns.adtechus.com",
+      "googleads.g.doubleclick.net",
+      "static.doubleclick.net",
+      "www.googleadservices.com",
+      "adserver.adtechus.com",
+      "atpixelus.alephd.com",
+      "d1xfq2052q7thw.cloudfront.net",
+      "gslbeacon.lijit.com",
+      "bid.g.doubleclick.net",
+      "i.ytimg.com",
+      "www.googletagservices.com",
+      "tag.contextweb.com",
+      "c.amazon-adsystem.com",
+      "www.googletagmanager.com",
+      "adservice.google.es",
+      "adservice.google.com",
+      "ad.doubleclick.net",
+      "static.criteo.net",
+      "curse-d.openx.net",
+      "as.casalemedia.com",
+      "i1.ytimg.com",
+      "ap.lijit.com",
+      "bid.contextweb.com",
+      "www.google.es",
+      "bidder.criteo.com",
+      "aax.amazon-adsystem.com",
+      "dnn506yrbagrg.cloudfront.net",
+      "s.ntv.io",
+      "securepubads.g.doubleclick.net",
+      "www.google-analytics.com",
+      "b.scorecardresearch.com",
+      "0914.global.ssl.fastly.net",
+      "cdn3.optimizely.com",
+      "accounts.google.com",
+      "s.ytimg.com",
+      "deviceidshare.twitch.tv",
+      "yt3.ggpht.com",
+      "gtrk.s3.amazonaws.com",
+      "secure-us.imrworldwide.com",
+      "ssl.gstatic.com",
+      "jadserve.postrelease.com",
+      "tpc.googlesyndication.com"
+    ]
+  },
+  "www.mint.com": {
+    "hostname": "www.mint.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": [
+      "cdn.optimizely.com",
+      "d3js.org",
+      "www.youtube.com",
+      "4354787.fls.doubleclick.net",
+      "logx.optimizely.com",
+      "www.facebook.com",
+      "www.google.com"
+    ]
+  },
+  "www.mozilla.org": {
+    "hostname": "www.mozilla.org",
+    "favicon": "https://www.mozilla.org/media/img/firefox/favicon.e6bb0e59df3d.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "assets.mozilla.net",
+      "www.googletagmanager.com",
+      "www.google-analytics.com"
+    ]
+  },
+  "www.muylinux.com": {
+    "hostname": "www.muylinux.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "apis.google.com",
+      "muylinux.disqus.com",
+      "secure.statcounter.com",
+      "fonts.gstatic.com",
+      "accounts.google.com",
+      "ssl.gstatic.com"
+    ]
+  },
+  "www.offensive-security.com": {
+    "hostname": "www.offensive-security.com",
+    "favicon": "https://www.offensive-security.com/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "images-na.ssl-images-amazon.com",
+      "images-eu.ssl-images-amazon.com",
+      "www.amazon.es",
+      "m.media-amazon.com",
+      "aax-eu.amazon-adsystem.com",
+      "fls-eu.amazon.es",
+      "unagi-eu.amazon.com",
+      "consent.google.com",
+      "id.google.es",
+      "www.google.es",
+      "www.gstatic.com",
+      "apis.google.com",
+      "adservice.google.es",
+      "fonts.googleapis.com",
+      "ssl.p.jwpcdn.com",
+      "fonts.gstatic.com",
+      "player.vimeo.com",
+      "www.google-analytics.com",
+      "platform.twitter.com",
+      "f.vimeocdn.com",
+      "ssl.google-analytics.com",
+      "i.vimeocdn.com",
+      "fresnel.vimeocdn.com",
+      "syndication.twitter.com",
+      "cdn.syndication.twimg.com",
+      "abs.twimg.com",
+      "pbs.twimg.com",
+      "ton.twimg.com"
+    ]
+  },
+  "www.openmandriva.org": {
+    "hostname": "www.openmandriva.org",
+    "favicon": "https://www.openmandriva.org/local/cache-gd2/b3/4c06901005d22646abd5cdf678fd6f.ico?1514062933",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "stats.openmandriva.org"
+    ]
+  },
+  "www.paypalobjects.com": {
+    "hostname": "www.paypalobjects.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "mundokodi.com",
+      "aidancbrady.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.pccomponentes.com": {
+    "hostname": "www.pccomponentes.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": [
+      "cdn.pccomponentes.com",
+      "thumb.pccomponentes.com",
+      "cdn.tagdelivery.com",
+      "www.googletagmanager.com",
+      "static.criteo.net",
+      "connect.facebook.net",
+      "cdn.doofinder.com",
+      "pccomponentes.salesmanago.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "eu1-search.doofinder.com",
+      "www.google-analytics.com",
+      "static.hotjar.com",
+      "www.googletagservices.com",
+      "vars.hotjar.com",
+      "ad.tagdelivery.com",
+      "adservice.google.es",
+      "adservice.google.com",
+      "www.googleadservices.com",
+      "script.hotjar.com",
+      "securepubads.g.doubleclick.net",
+      "www.facebook.com"
+    ]
+  },
+  "www.pcworld.com": {
+    "hostname": "www.pcworld.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.staticworld.net",
+      "s.ntv.io",
+      "www.google.com",
+      "alt.idgesg.net",
+      "idge.staticworld.net",
+      "tags.bkrtx.com",
+      "images.idgesg.net",
+      "images.techhive.com",
+      "storage.googleapis.com",
+      "csmb.staticworld.net",
+      "www.gstatic.com",
+      "cdn.yldbt.com",
+      "z-na.amazon-adsystem.com",
+      "i.yldbt.com",
+      "d1z2jf7jlzjs58.cloudfront.net",
+      "stags.bluekai.com"
+    ]
+  },
+  "www.pexels.com": {
+    "hostname": "www.pexels.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": false,
+    "thirdParties": [
+      "images.pexels.com",
+      "www.google-analytics.com",
+      "cat.pexels.com",
+      "connect.facebook.net",
+      "cdn.carbonads.com",
+      "www.facebook.com",
+      "www.google.es"
+    ]
+  },
+  "www.profesionalreview.com": {
+    "hostname": "www.profesionalreview.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "images-eu.ssl-images-amazon.com",
+      "ajax.googleapis.com",
+      "profesionalreviewc.disqus.com",
+      "apis.google.com",
+      "fonts.googleapis.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "accounts.google.com",
+      "pagead2.googlesyndication.com",
+      "ssl.gstatic.com",
+      "adservice.google.com",
+      "adservice.google.es",
+      "googleads.g.doubleclick.net",
+      "fonts.gstatic.com",
+      "lh3.googleusercontent.com",
+      "servedbyadbutler.com"
+    ]
+  },
+  "www.raspberrypi.org": {
+    "hostname": "www.raspberrypi.org",
+    "favicon": "https://www.raspberrypi.org/app/themes/mind-control/images/favicon.png",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "www.google-analytics.com",
+      "fonts.gstatic.com",
+      "js-agent.newrelic.com",
+      "bam.nr-data.net"
+    ]
+  },
+  "www.raspbian.org": {
+    "hostname": "www.raspbian.org",
+    "favicon": "https://www.raspbian.org/static/favicon.ico",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.reddit.com": {
+    "hostname": "www.reddit.com",
+    "favicon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-16x16.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.redditstatic.com",
+      "a.thumbs.redditmedia.com",
+      "b.thumbs.redditmedia.com",
+      "www.redditmedia.com",
+      "www.google-analytics.com",
+      "ssl.google-analytics.com",
+      "c.amazon-adsystem.com",
+      "www.googletagservices.com",
+      "adservice.google.es",
+      "adservice.google.com",
+      "www.googletagmanager.com",
+      "securepubads.g.doubleclick.net",
+      "tpc.googlesyndication.com",
+      "pagead2.googlesyndication.com",
+      "www.googleadservices.com",
+      "googleads.g.doubleclick.net",
+      "www.google.es",
+      "www.google.com",
+      "secure.quantserve.com",
+      "rules.quantcount.com",
+      "aax.amazon-adsystem.com",
+      "csi.gstatic.com",
+      "z.moatads.com",
+      "aax-eu.amazon-adsystem.com",
+      "pixel.quantserve.com",
+      "secure-assets.rubiconproject.com",
+      "tap-secure.rubiconproject.com",
+      "ads.pubmatic.com",
+      "fw.adsafeprotected.com",
+      "token.rubiconproject.com",
+      "image6.pubmatic.com",
+      "simage4.pubmatic.com",
+      "dt.adsafeprotected.com",
+      "images-eu.ssl-images-amazon.com"
+    ]
+  },
+  "www.redditmedia.com": {
+    "hostname": "www.redditmedia.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.redditstatic.com": {
+    "hostname": "www.redditstatic.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.redhat.com": {
+    "hostname": "www.redhat.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es"
+    ]
+  },
+  "www.slackware.com": {
+    "hostname": "www.slackware.com",
+    "favicon": "http://www.slackware.com/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.subadictos.net": {
+    "hostname": "www.subadictos.net",
+    "favicon": "http://www.subadictos.net/foros/favicon.ico",
+    "firstPartyHostnames": [
+      "subadictos.net"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "nord.subadictos.net",
+      "wiki-adictos.subadictos.net",
+      "img.fenixzone.net",
+      "imagenes.subadictos.net",
+      "acceptable.a-ads.com"
+    ]
+  },
+  "www.torproject.org": {
+    "hostname": "www.torproject.org",
+    "favicon": "https://www.torproject.org/images/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es"
+    ]
+  },
+  "www.ubuntu.com": {
+    "hostname": "www.ubuntu.com",
+    "favicon": "https://assets.ubuntu.com/v1/49a1a858-favicon-32x32.png",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "assets.ubuntu.com",
+      "www.googletagmanager.com",
+      "www.google.es",
+      "player.vimeo.com",
+      "static.ads-twitter.com",
+      "dnn506yrbagrg.cloudfront.net",
+      "f.vimeocdn.com",
+      "ssl.google-analytics.com",
+      "vimeo.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "sjrtp3-cdn.marketo.com",
+      "app.natify.io",
+      "i.vimeocdn.com",
+      "fresnel.vimeocdn.com",
+      "stats.g.doubleclick.net",
+      "tag.nrich.ai"
+    ]
+  },
+  "www.ucm.es": {
+    "hostname": "www.ucm.es",
+    "favicon": "https://www.ucm.es/themes/ucm16/media/img/logoucm.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google-analytics.com"
+    ]
+  },
+  "www.voidlinux.eu": {
+    "hostname": "www.voidlinux.eu",
+    "favicon": "https://www.voidlinux.eu/assets/img/favicon.ico",
+    "firstPartyHostnames": [
+      "www.google.es"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "fonts.googleapis.com",
+      "api.github.com",
+      "platform.twitter.com",
+      "fonts.gstatic.com",
+      "syndication.twitter.com",
+      "cdn.syndication.twimg.com",
+      "pbs.twimg.com"
+    ]
+  },
+  "www.wikihow.com": {
+    "hostname": "www.wikihow.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "es.wikihow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.wikipedia.org": {
+    "hostname": "www.wikipedia.org",
+    "favicon": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+    "firstPartyHostnames": [
+      "en.wikipedia.org"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.xataka.com": {
+    "hostname": "www.xataka.com",
+    "favicon": "",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.es",
+      "img.youtube.com",
+      "partner.googleadservices.com",
+      "img.weblogssl.com",
+      "i.blogs.es",
+      "www.gravatar.com",
+      "adserver.adtech.de",
+      "fastlane.rubiconproject.com",
+      "phb-tailormade.appspot.com",
+      "s.ytimg.com",
+      "t.audience.network",
+      "lrk0kdx4ri.execute-api.eu-west-1.amazonaws.com"
+    ]
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "https://www.youtube.com/yts/img/favicon-vfl8qSV2F.ico",
+    "firstPartyHostnames": [
+      "cv4.ucm.es",
+      "edu.google.com",
+      "www.google.es",
+      "retropie.org.uk",
+      "es.godaddy.com",
+      "www.google.com.mx",
+      "www.mint.com",
+      "aidancbrady.com",
+      "botaniamod.net",
+      "vazkii.us",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "i.ytimg.com",
+      "s.ytimg.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "googleads.g.doubleclick.net",
+      "securepubads.g.doubleclick.net",
+      "www.google.com",
+      "static.doubleclick.net",
+      "www.google.es",
+      "ad.doubleclick.net",
+      "yt3.ggpht.com"
+    ]
+  },
+  "www8.smartadserver.com": {
+    "hostname": "www8.smartadserver.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.linuxadictos.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "yt3.ggpht.com": {
+    "hostname": "yt3.ggpht.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.minecraftforum.net"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "yts.am": {
+    "hostname": "yts.am",
+    "favicon": "https://yts.am/assets/images/website/favicon-32x32.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "velocecdn.com",
+      "s7.addthis.com",
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "venturead.com",
+      "m.addthisedge.com",
+      "m.addthis.com",
+      "c.codeonclick.com",
+      "graph.facebook.com",
+      "b.codeonclick.com"
+    ]
+  },
+  "yts.me": {
+    "hostname": "yts.me",
+    "favicon": "https://s.ynet.me/assets/images/website/favicon-32x32.png",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "s7.addthis.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "s.ynet.me",
+      "www.google-analytics.com",
+      "m.addthisedge.com",
+      "m.addthis.com",
+      "su.addthis.com"
+    ]
+  },
+  "z-na.amazon-adsystem.com": {
+    "hostname": "z-na.amazon-adsystem.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.pcworld.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "z.moatads.com": {
+    "hostname": "z.moatads.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}
