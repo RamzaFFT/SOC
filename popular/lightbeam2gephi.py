@@ -26,6 +26,10 @@ def generateAll():
 		if website[0] not in nodes:
 			nodes.append(website[0])
 			format_nodes.append("{};{}\n".format(website[0], False))
+		if website[1] not in nodes:
+			nodes.append(website[1])
+			format_nodes.append("{};{}\n".format(website[1], False))
+
 
 	with open('{}_edges.csv'.format(file_name), 'w') as edges_file:
 	    edges_file.writelines(edges)
